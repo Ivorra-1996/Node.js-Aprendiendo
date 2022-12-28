@@ -12,9 +12,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/Ivorra-1996/Node.js-Aprendiendo.git"
 	},
 	"description": "Un proyecto que hace algo asombroso",
-	"keywords": ["aprendiendo","freecodecamp"]
+	"keywords": ["aprendiendo","freecodecamp"],
+	"license": "Podes hacer lo que quieras"
 }
 
