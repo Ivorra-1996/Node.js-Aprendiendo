@@ -14,5 +14,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"description": "Un proyecto que hace algo asombroso"
+	"description": "Un proyecto que hace algo asombroso",
+	"keywords": ["aprendiendo","freecodecamp"]
 }
+
